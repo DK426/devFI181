@@ -1,1 +1,2 @@
-text
+I use vim
+and I think it's beautiful)
